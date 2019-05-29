@@ -1,7 +1,6 @@
 **© 2019 Cairo Mitchell-Acason, All Rights Reserved unless a right is explicitly stated/listed below.**
 
 
-
 ## LICENSE NOTICE
 
 ANY CONTENT WRAPPED IN QUOTATION MARKS HAS A DEFINITION AT THE BOTTOM OF THE PAGE TO CLARIFY WHAT IT MEANS, ANY OTHER DEFINITON IN THE ENGLISH LANGUAGE IS OVERRIDEN BY THIS DEFINITON.
@@ -54,7 +53,7 @@ You will not be able to own a copy of the "content", locally redistribute a copy
 
 "author" - The creator of this content and the copyright holder, Cairo Mitchell-Acason.
 
-"content" - The css style named `content.css` in this repository.
+"content" - The css style named `style.css` in this repository.
 
 "browser" - A computer program with a graphical user interface for displaying HTML files, used to navigate the Internet. Such as Chrome, Firefox, Opera, Microsoft Edge, etc.
 
