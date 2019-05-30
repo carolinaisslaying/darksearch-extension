@@ -7,7 +7,7 @@ ANY CONTENT WRAPPED IN QUOTATION MARKS HAS A DEFINITION AT THE BOTTOM OF THE PAG
 
 The "author" has a right to change/modify any rights granted to you via this license at any time, with or without notice.
 
-It is your responsibility to actively check if you have the required rights to continue using this content, especially if you have been granted additional rights.
+It is your responsibility to actively check if you have the required rights to continue using this "content", especially if you have been granted additional rights.
 
 
 
