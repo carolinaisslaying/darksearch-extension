@@ -6,6 +6,40 @@
 	regexp("https?://www.google.(com|([a-z]{2}))(.[a-z]{2})?\/_\/chrome\/newtab\?.*")
 {
   
+  /* under tools and/or games there is a long button that opens a full list of games and tools */
+  g-inline-expansion-bar {
+    background-color: #161616;
+}
+  
+  /* games tab */
+  a.KYeOtb.M4n04.M51USb.iravyt_y6p3E-CEboYq6GL3A {
+    background-color: #161616;
+    color: lightgrey !important;
+}
+  
+  a.KYeOtb.M4n04.M51USb.iravyt_y6p3E-CEboYq6GL3A.ih2ainT7gdI__unselected {
+    background-color: #161616;
+}
+  
+  /* tools tab */
+  a.KYeOtb.M4n04.iravyt_y6p3E-CEboYq6GL3A.ih2ainT7gdI__unselected {
+    background-color: #161616;
+}
+  
+  a.KYeOtb.M4n04.iravyt_y6p3E-CEboYq6GL3A {
+    background-color: #161616;
+    color: lightgrey !important;
+}
+  
+  /* area where games and tools are */
+  .EDblX.DAVP1 {
+    background-color: #101010;
+}
+  
+  /* a game/tool */
+  .JscqU {
+    border-radius: 0px;
+}
   
   /* Current account box background */
 .gb_Sa.gb_z.gb_dc {
@@ -168,3 +202,6 @@
   }
   
 }
+
+
+
